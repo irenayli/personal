@@ -15,9 +15,11 @@ header {
     z-index: 1;
     height: 130px;
     background-color: #FDFDF2;
+    padding-bottom: 20;
 }
 
 h1 {
+    font-size: 50;
     margin: 0;
     padding-top: 75px;
 }
@@ -34,8 +36,7 @@ p {
 }
 
 ul {
-    margin-top: 0;
-    margin-bottom: 10;
+    margin: 0;
 }
 
 ol {
@@ -55,13 +56,11 @@ section {
 }
 
 footer {
-    margin: 10 0;
-    bottom: 0;
+    margin: 15 0 0;
     height: 20px;
     border-top-width: 4px;
     border-top-style: solid;
 }
 a {
-    margin: 15 0;
     color: #795996;
 }
