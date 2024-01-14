@@ -69,6 +69,28 @@ a {
     color: #795996;
 }
 
+.gallery {
+    max-width: 100%;
+    align-items: center;
+}
+
+.gallery > img {
+    margin: 1em 0 0;
+    width: 400px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.gallery > p {
+    font-size: 14px;
+}
+
+#sketches {
+    width: 250px;
+    border-style: solid;
+    border-width: 2px;
+}
+
 .container {
     height: 100%;
     max-width: 100%;
